@@ -1,0 +1,106 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	\\background: url("../../a2b191dc7f.jpg")
+	
+}
+#tableicin1 {
+	background-color: #FFFFFF;
+	
+}
+
+
+li {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+	background-color: #FB6669;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+}
+
+li {
+	display: inline-block;
+}
+
+li a {
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 20px 35px;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: #F39C12;
+
+}
+
+ul li ul {
+	background-color: #2C3E50;
+	display: none;
+	position: absolute;
+	width: 100px;
+}
+
+ul li:hover ul {
+	display: block;
+}
+
+li ul li {
+	display: block;
+}
+
+
+
+
+#box1 {
+        margin: auto;
+        padding: 10px;
+        display: table;
+    }
+ 
+    #box2 {
+        
+        vertical-align: middle;
+        display: table-cell;
+        color: #000000;
+        font-size: 19px
+}
+			
+
+ul li{
+  position:relative;
+}
+
+td {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color: #000000
+	
+}
+
+#h1icin {
+	background-color: #FB6669;
+}
+
+#puandurumuicin {
+	background-color: #FB6669;
+	padding: 5px 87px;
+}
+
+#yerbelirtmekicin {
+	background-color: #FB6669;
+	padding: 5px 363px;
+}
+
+#haberlericin {
+	background-color: #FB6669;
+	padding: 5px 100px;
+}
+
+
+#millitakimicin {
+	background-color: #FB6669;
+	padding: 5px 311px;
+}
